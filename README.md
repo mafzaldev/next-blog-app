@@ -1,2 +1,2 @@
-## Personal App
+## NextJS Blog App
 
